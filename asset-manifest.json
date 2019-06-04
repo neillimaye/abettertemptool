@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bettertemptool/static/css/main.2cce8147.chunk.css",
-    "main.js": "/bettertemptool/static/js/main.e73fae4d.chunk.js",
-    "main.js.map": "/bettertemptool/static/js/main.e73fae4d.chunk.js.map",
+    "main.js": "/bettertemptool/static/js/main.b3ee5d0a.chunk.js",
+    "main.js.map": "/bettertemptool/static/js/main.b3ee5d0a.chunk.js.map",
     "runtime~main.js": "/bettertemptool/static/js/runtime~main.44ff9878.js",
     "runtime~main.js.map": "/bettertemptool/static/js/runtime~main.44ff9878.js.map",
     "static/js/2.8992f39d.chunk.js": "/bettertemptool/static/js/2.8992f39d.chunk.js",
     "static/js/2.8992f39d.chunk.js.map": "/bettertemptool/static/js/2.8992f39d.chunk.js.map",
     "index.html": "/bettertemptool/index.html",
-    "precache-manifest.92bb36fdecfbd52d6cc1d9146f4db4fa.js": "/bettertemptool/precache-manifest.92bb36fdecfbd52d6cc1d9146f4db4fa.js",
+    "precache-manifest.22ef7e2bd392ae25fe82713d9745f6c5.js": "/bettertemptool/precache-manifest.22ef7e2bd392ae25fe82713d9745f6c5.js",
     "service-worker.js": "/bettertemptool/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/bettertemptool/static/css/main.2cce8147.chunk.css.map"
   }
