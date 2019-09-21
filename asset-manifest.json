@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bettertemptool/static/css/main.2cce8147.chunk.css",
-    "main.js": "/bettertemptool/static/js/main.fbc611ee.chunk.js",
-    "main.js.map": "/bettertemptool/static/js/main.fbc611ee.chunk.js.map",
-    "runtime~main.js": "/bettertemptool/static/js/runtime~main.44ff9878.js",
-    "runtime~main.js.map": "/bettertemptool/static/js/runtime~main.44ff9878.js.map",
-    "static/js/2.d78ab747.chunk.js": "/bettertemptool/static/js/2.d78ab747.chunk.js",
-    "static/js/2.d78ab747.chunk.js.map": "/bettertemptool/static/js/2.d78ab747.chunk.js.map",
-    "index.html": "/bettertemptool/index.html",
-    "precache-manifest.392374453257ffb254d3ed59bcbbbe0e.js": "/bettertemptool/precache-manifest.392374453257ffb254d3ed59bcbbbe0e.js",
-    "service-worker.js": "/bettertemptool/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/bettertemptool/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/abettertemptool/static/css/main.2cce8147.chunk.css",
+    "main.js": "/abettertemptool/static/js/main.3fdabfce.chunk.js",
+    "main.js.map": "/abettertemptool/static/js/main.3fdabfce.chunk.js.map",
+    "runtime~main.js": "/abettertemptool/static/js/runtime~main.55c7c9ce.js",
+    "runtime~main.js.map": "/abettertemptool/static/js/runtime~main.55c7c9ce.js.map",
+    "static/js/2.05df7a59.chunk.js": "/abettertemptool/static/js/2.05df7a59.chunk.js",
+    "static/js/2.05df7a59.chunk.js.map": "/abettertemptool/static/js/2.05df7a59.chunk.js.map",
+    "index.html": "/abettertemptool/index.html",
+    "precache-manifest.edebff0cc62d5a82286b340496635471.js": "/abettertemptool/precache-manifest.edebff0cc62d5a82286b340496635471.js",
+    "service-worker.js": "/abettertemptool/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/abettertemptool/static/css/main.2cce8147.chunk.css.map"
   }
 }
